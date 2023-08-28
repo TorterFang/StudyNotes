@@ -1,11 +1,13 @@
+xxxxxxxxxxxxxxxxxxx
                  U abort
+222
                  U accept
                  U access
                  U __assert_fail
-                 U atoi
+                 kkk
                  U atol
                  U bind
-00000000007346d0 B __bss_start
+
                  U calloc
                  U chmod
                  U clock_gettime
